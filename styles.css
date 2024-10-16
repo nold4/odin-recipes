@@ -1,0 +1,37 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  background-color: black;
+  color:white;
+  overflow: auto;
+}
+
+.recipe-list-home {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin-top: 25px;
+  padding-top: 50px;
+  padding-left: 0;
+  
+}
+
+li {
+  padding-top: 15px;
+  font-weight: bold;
+  color:darkslateblue;
+  background-color: darkgray;
+  overflow: auto;
+  
+}
+
+li a {
+  text-decoration: none;
+  background-color: darksalmon;
+}
